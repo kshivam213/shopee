@@ -1,0 +1,2 @@
+insert into product(id, name, category, image, price, brand, rating, total_review) values (1, 'Slim Shirt', 'Shirt', '/images/d1.jpg', 60, 'Nike', 4.8, 100),
+(2, 'Fit Shirt', 'Shirt', '/images/d2.jpg', 60, 'Rebook', 4.8, 100),(3, 'Long Shirt', 'Shirt', '/images/d3.jpg', 60, 'Read & Taylor', 4.8, 150),(4, 'T Shirt', 'T Shirt', '/images/d4.jpg', 60, 'Wrogn', 4.8, 100),(5, 'Fit Pant', 'Pant', '/images/d5.jpg', 60, 'Wrangler', 4.8, 700), (6, 'trousers', 'Trousers', '/images/d6.jpg', 60, 'Wrangler', 4.8, 900);
